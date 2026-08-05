@@ -9,7 +9,7 @@ requirements = python3,kivy,requests,edge-tts,pyjnius
 orientation = portrait
 fullscreen = 0
 
-android.permissions = RECORD_AUDIO,INTERNET,CALL_PHONE,CAMERA,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE
+android.permissions = RECORD_AUDIO,INTERNET,CALL_PHONE,CAMERA,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,VIBRATE,FLASHLIGHT
 
 android.api = 33
 android.minapi = 21
